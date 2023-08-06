@@ -22,6 +22,7 @@ namespace UserActivityTracking.Controllers
 
         public IActionResult Index()
         {
+
             return View();
         }
 
